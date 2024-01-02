@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+#buttons{
+	padding: 50px;
+	background: rgb(161, 135, 255);
+}
+.btn {
+  margin: 5px;
+  padding: 10px;
+  background-color: rgb(102, 80, 193);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.stop {
+  background-color: rgb(102, 80, 193);
+}
+/* .pause{
+    background-color: thistle;
+} */
